@@ -59,21 +59,21 @@
   "expertise": {
     "cards": [
       {
-        "num": "01",
+        "num": "กีฬา คาสิโน หวย เกมส์",
         "title": "GOOD EXPERIENCE at 10 Year.",
         "desc": "ด้วยความเชี่ยวชาญเฉพาะด้าน เราพัฒนาผลิตภัณฑ์ที่โดดเด่นผ่านความเข้าใจอย่างลึกซึ้งในทุกมิติของธุรกิจนี้มาอย่างยาวนาน",
         "icon": "star",
         "image": "images/uploads/1f88f1a19922.png"
       },
       {
-        "num": "02",
+        "num": "คืนยอดเสีย 5% ทุกเย็นวันศูกร์ไม่ติดเงื่อนไข",
         "title": "GOOD BENIFIT WITH YOU",
         "desc": "เราคึนยอดพลาดให้คุณ ทุกวันศุกร์ 5% ไม่ติดเงื่อนไข",
         "icon": "bolt",
         "image": "images/uploads/679eb77a3ba8.png"
       },
       {
-        "num": "03",
+        "num": "หวยไทย 3 ตัว 1,200 2 ตัว 120 หวยลาว 3 ตัว 1,000 2 ตัว 100",
         "title": "MYLOTTO",
         "desc": "เลขในฝัน AI อ่านเลข\nไทย 3 ตัว 1,200 2 ตัว 120\nลาว 3 ตัว 1,000 2 ตัว 100\n",
         "icon": "globe",
@@ -94,14 +94,14 @@
       },
       {
         "text": "One All Stop service",
-        "link": "https://l2p9.l3t.lsmplay.com/register?channel=1723081456634"
+        "link": "https://l2p9.playlsm.com/register?partner=7871&channel=1772696340639"
       }
     ],
     "socials": {
-      "telegram": "https://lin.ee/QsJjRdy",
       "facebook": "https://www.facebook.com/profile.php?id=61579493847239",
       "x": "https://x.com/judge_ato7",
-      "youtube": "https://www.youtube.com/@KukinoRasino"
+      "youtube": "https://www.youtube.com/@KukinoRasino",
+      "line": "https://lin.ee/QsJjRdy"
     }
   },
   "hero": {
@@ -122,7 +122,7 @@
     "ctaButtons": [
       {
         "text": "สมัคร",
-        "link": "https://l2p9.l3t.lsmplay.com/register?channel=1723081456634",
+        "link": "https://l2p9.playlsm.com/register?partner=7871&channel=1772696340639",
         "style": "primary"
       },
       {
@@ -134,32 +134,32 @@
     "eyebrow": "WE HAVE SUPPORT ALL SPORT",
     "slides": [
       {
-        "name": "MUAYTHAI",
-        "line1": "MUAY",
-        "line2": "THAI",
-        "desc": "ONE-BX คือแพลตฟอร์มเดิมพันมวยอันดับหนึ่งของประเทศไทย ภายใต้ LSM Group ผู้นำอุตสาหกรรมเดิมพันออนไลน์ ออกแบบมาเพื่อยกระดับแพลตฟอร์มของคุณด้วยระบบเดิมพันมวยที่ทันสมัย",
-        "image": "images/uploads/fd4ff5da1f62.png"
+        "name": "CASINO",
+        "line1": "CASIO",
+        "line2": "ALL TIME",
+        "desc": "ทุกค่าย ยุติธรรม ระบบเสถียร",
+        "image": "images/uploads/ecab8fdce2a0.png"
       },
       {
         "name": "FOOTBALL",
-        "line1": "FOOT",
-        "line2": "BALL",
-        "desc": "ราคาน้ำดีที่สุด ครบทุกแมตซ์ไม่ให้คุณพลาด สเต็ปลดทุกบิล",
+        "line1": "SPORT",
+        "line2": "LSM",
+        "desc": "SPORT LSM ราคาน้ำดีที่สุด ครบทุกแมตซ์ไม่ให้คุณพลาด สเต็ปลดทุกบิล",
         "image": "images/uploads/8e1899b91aeb.png"
       },
       {
-        "name": "COCKFIGHTING",
-        "line1": "COCK",
-        "line2": "FIGHT",
-        "desc": "นำความตื่นเต้นของการชนไก่แบบดั้งเดิมสู่เวทีดิจิทัลระดับโลก ด้วยอัตราต่อรองเรียลไทม์และการเชื่อมต่อที่ราบรื่น",
-        "image": "images/uploads/96723ed8ee81.png"
+        "name": "MUAYTHAI",
+        "line1": "ONE",
+        "line2": "BX",
+        "desc": "ONE-BX แพลตฟอร์มมวยอันดับหนึ่งของประเทศไทย ราคาน้ำดีที่สุด",
+        "image": "images/uploads/aea70c277db2.png"
       },
       {
-        "name": "SNOOKER",
-        "line1": "SNOO",
-        "line2": "KER",
-        "desc": "ความแม่นยำ กลยุทธ์ ราคาที่ดี และความตื่นเต้นของกีฬาคิวที่พร้อมดึงดูดผู้ชมของคุณทั่วโลก",
-        "image": "images/uploads/c13ef661aec3.png"
+        "name": "MYLOTTO",
+        "line1": "MY",
+        "line2": "LOTTO",
+        "desc": "MYLOTTO มีทุกหวยให้คุณเล่น พร้อมราคาที่มากกว่าที่อื่น",
+        "image": "images/uploads/2d3b79f33d39.png"
       },
       {
         "name": "BULL",
@@ -169,7 +169,7 @@
         "image": "images/uploads/871667a02143.png"
       },
       {
-        "name": "BOAT RACE",
+        "name": "BOATRACE",
         "line1": "BOAT",
         "line2": "RACE",
         "desc": "การแข่งเรือไทยดั้งเดิมผสานเทคโนโลยีเดิมพันสมัยใหม่ — รวดเร็วและเป็นเอกลักษณ์ทางวัฒนธรรม",
@@ -187,28 +187,28 @@
   "integration": {
     "cards": [
       {
-        "num": "01",
+        "num": "สะดวกด้วยระบบหน้าเดียว",
         "title": "One-Click Integration",
         "desc": "เชื่อมต่อรวดเร็ว พร้อมใช้งานทันที ไม่พลาดทุกสถานการณ์",
         "icon": "bolt",
         "image": ""
       },
       {
-        "num": "02",
+        "num": "ดูแลคุณ 24 ชม. แบบ VIP",
         "title": "You Need, We Support 24 hrs.",
         "desc": "ทีมงานเราพร้อมดูแล 24 ชม. อย่าง VIP",
         "icon": "headphones",
         "image": ""
       },
       {
-        "num": "03",
+        "num": "การันตี ฝากถอน เล่นเท่าไรจ่ายเท่านั้น!!",
         "title": "You're VIP",
         "desc": "บริการฉับไว ตอบถูกคำถามที่คุณถาม",
         "icon": "chat",
         "image": ""
       },
       {
-        "num": "04",
+        "num": "เล่นได้ทุกที่ไม่ว่าอยู่ที่ไหน",
         "title": "Built For Every Screen",
         "desc": "ลื่นไหลชัดเจนบนทุกอุปกรณ์ เสถียรบนทุกแพลตฟอร์ม",
         "icon": "devices",
