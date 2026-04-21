@@ -1,0 +1,250 @@
+{
+  "benefits": {
+    "cards": [
+      {
+        "title": "Live Betting & Real-Time Odds",
+        "desc": "ราคาเราดีที่สุดในประเทศไทย ดูสด อัปเดตเรียลไทม์ แม่นยำ เดิมพันได้ทันทีไม่มีสะดุด ",
+        "icon": "globe",
+        "image": "images/uploads/a2fc3523c75a.png"
+      },
+      {
+        "title": "Card game ",
+        "desc": "อัปเดตเรียลไทม์ แม่นยำ เดิมพันได้ทันทีไม่มีสะดุด ",
+        "icon": "table",
+        "image": "images/uploads/b3db63399c9f.png"
+      },
+      {
+        "title": "Mylotto",
+        "desc": "ไทย 3/1,200 2/120 ลาว 3/1,000 2/100",
+        "icon": "star",
+        "image": "images/uploads/0cc4d1c7f7e3.png"
+      },
+      {
+        "title": "Real Help, Real Time",
+        "desc": "ทีมซัพพอร์ตตอบไว พร้อมให้บริการ 24 ชั่วโมงทุกวัน",
+        "icon": "chat",
+        "image": ""
+      }
+    ],
+    "tag": "Benefits",
+    "title": "Everything You <em>Need.</em>"
+  },
+  "devices": {
+    "desktopImg": "images/device-desktop.png",
+    "phoneImg": "images/device-phone.png",
+    "tabletImg": "images/uploads/ce90d899ed28.png",
+    "tag": "Responsive",
+    "title": "Runs On <em>Anything.</em>"
+  },
+  "experience": {
+    "desc": "ยกระดับประสบการณ์ผู้ใช้ด้วยอินเทอร์เฟซที่ออกแบบมาอย่างดี การแจ้งเตือนแบบเรียลไทม์ และระบบอัตราต่อรองที่ปรับเปลี่ยนได้ทันที พร้อมรองรับทั้งบนมือถือและเดสก์ท็อป",
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Events / Mo"
+      },
+      {
+        "value": "24/7",
+        "label": "Live Support"
+      },
+      {
+        "value": "Good Price",
+        "label": "Product"
+      }
+    ],
+    "tag": "The Experience",
+    "title": "Not just<br>betting.<br><span>It's an experience.</span>",
+    "videoUrl": "https://www.youtube.com/shorts/079h4HTprkg"
+  },
+  "expertise": {
+    "cards": [
+      {
+        "num": "01",
+        "title": "GOOD EXPERIENCE at 10 Year.",
+        "desc": "ด้วยความเชี่ยวชาญเฉพาะด้าน เราพัฒนาผลิตภัณฑ์ที่โดดเด่นผ่านความเข้าใจอย่างลึกซึ้งในทุกมิติของธุรกิจนี้มาอย่างยาวนาน",
+        "icon": "star",
+        "image": "images/uploads/1f88f1a19922.png"
+      },
+      {
+        "num": "02",
+        "title": "GOOD BENIFIT WITH YOU",
+        "desc": "เราคึนยอดพลาดให้คุณ ทุกวันศุกร์ 5% ไม่ติดเงื่อนไข",
+        "icon": "bolt",
+        "image": "images/uploads/679eb77a3ba8.png"
+      },
+      {
+        "num": "03",
+        "title": "MYLOTTO",
+        "desc": "เลขในฝัน AI อ่านเลข\nไทย 3 ตัว 1,200 2 ตัว 120\nลาว 3 ตัว 1,000 2 ตัว 100\n",
+        "icon": "globe",
+        "image": "images/uploads/52eebd3f0e37.png"
+      }
+    ],
+    "tag": "Why LSM2PLAY X ONE BX",
+    "title": "Built on <em>Expertise</em>"
+  },
+  "footer": {
+    "copyright": "© 2026 X9. All rights reserved.",
+    "desc": "The number one boxing & niche sports and card — built by experts, trusted globally.",
+    "email": "X9@lsm2play.com",
+    "productLinks": [
+      {
+        "text": "One2Coin",
+        "link": "https://www.youtube.com/shorts/nUSjernRZn0"
+      },
+      {
+        "text": "One All Stop service",
+        "link": "https://l2p9.l3t.lsmplay.com/register?channel=1723081456634"
+      }
+    ],
+    "socials": {
+      "telegram": "https://lin.ee/QsJjRdy",
+      "facebook": "https://www.facebook.com/profile.php?id=61579493847239",
+      "x": "https://x.com/judge_ato7",
+      "youtube": "https://www.youtube.com/@KukinoRasino"
+    }
+  },
+  "hero": {
+    "badges": [
+      {
+        "text": "LIVE · REAL TIME",
+        "gold": true
+      },
+      {
+        "text": "24/7 SUPPORT",
+        "gold": false
+      },
+      {
+        "text": "FRIDAY COM 5%",
+        "gold": false
+      }
+    ],
+    "ctaButtons": [
+      {
+        "text": "สมัคร",
+        "link": "https://l2p9.l3t.lsmplay.com/register?channel=1723081456634",
+        "style": "primary"
+      },
+      {
+        "text": "ติดต่อสอบถาม",
+        "link": "https://lin.ee/QsJjRdy",
+        "style": "green"
+      }
+    ],
+    "eyebrow": "WE HAVE SUPPORT ALL SPORT",
+    "slides": [
+      {
+        "name": "MUAYTHAI",
+        "line1": "MUAY",
+        "line2": "THAI",
+        "desc": "ONE-BX คือแพลตฟอร์มเดิมพันมวยอันดับหนึ่งของประเทศไทย ภายใต้ LSM Group ผู้นำอุตสาหกรรมเดิมพันออนไลน์ ออกแบบมาเพื่อยกระดับแพลตฟอร์มของคุณด้วยระบบเดิมพันมวยที่ทันสมัย",
+        "image": "images/uploads/fd4ff5da1f62.png"
+      },
+      {
+        "name": "FOOTBALL",
+        "line1": "FOOT",
+        "line2": "BALL",
+        "desc": "ราคาน้ำดีที่สุด ครบทุกแมตซ์ไม่ให้คุณพลาด สเต็ปลดทุกบิล",
+        "image": "images/uploads/8e1899b91aeb.png"
+      },
+      {
+        "name": "COCKFIGHTING",
+        "line1": "COCK",
+        "line2": "FIGHT",
+        "desc": "นำความตื่นเต้นของการชนไก่แบบดั้งเดิมสู่เวทีดิจิทัลระดับโลก ด้วยอัตราต่อรองเรียลไทม์และการเชื่อมต่อที่ราบรื่น",
+        "image": "images/uploads/96723ed8ee81.png"
+      },
+      {
+        "name": "SNOOKER",
+        "line1": "SNOO",
+        "line2": "KER",
+        "desc": "ความแม่นยำ กลยุทธ์ ราคาที่ดี และความตื่นเต้นของกีฬาคิวที่พร้อมดึงดูดผู้ชมของคุณทั่วโลก",
+        "image": "images/uploads/c13ef661aec3.png"
+      },
+      {
+        "name": "BULL",
+        "line1": "BULL",
+        "line2": "FIGHT",
+        "desc": "สัมผัสพลังและความตื่นเต้นของการเดิมพันวัวชน ตัวเลือกที่ไม่เหมือนใครสำหรับแพลตฟอร์มของคุณ",
+        "image": "images/uploads/871667a02143.png"
+      },
+      {
+        "name": "BOAT RACE",
+        "line1": "BOAT",
+        "line2": "RACE",
+        "desc": "การแข่งเรือไทยดั้งเดิมผสานเทคโนโลยีเดิมพันสมัยใหม่ — รวดเร็วและเป็นเอกลักษณ์ทางวัฒนธรรม",
+        "image": "images/uploads/6b212f310467.png"
+      },
+      {
+        "name": "BANG FAI",
+        "line1": "BANG",
+        "line2": "FAI",
+        "desc": "เทศกาลบั้งไฟ เฉลิมฉลองประเพณีท้องถิ่นด้วยการเดิมพันดิจิทัลล้ำสมัย",
+        "image": "images/uploads/f2c6f284d2e0.png"
+      }
+    ]
+  },
+  "integration": {
+    "cards": [
+      {
+        "num": "01",
+        "title": "One-Click Integration",
+        "desc": "เชื่อมต่อรวดเร็ว พร้อมใช้งานทันที ไม่พลาดทุกสถานการณ์",
+        "icon": "bolt",
+        "image": ""
+      },
+      {
+        "num": "02",
+        "title": "You Need, We Support 24 hrs.",
+        "desc": "ทีมงานเราพร้อมดูแล 24 ชม. อย่าง VIP",
+        "icon": "headphones",
+        "image": ""
+      },
+      {
+        "num": "03",
+        "title": "You're VIP",
+        "desc": "บริการฉับไว ตอบถูกคำถามที่คุณถาม",
+        "icon": "chat",
+        "image": ""
+      },
+      {
+        "num": "04",
+        "title": "Built For Every Screen",
+        "desc": "ลื่นไหลชัดเจนบนทุกอุปกรณ์ เสถียรบนทุกแพลตฟอร์ม",
+        "icon": "devices",
+        "image": ""
+      }
+    ],
+    "tag": "Platform",
+    "title": "One Platform. <em>Infinite Ways.</em>"
+  },
+  "products": {
+    "cards": [
+      {
+        "title": "LOTTO2ME",
+        "displayName": "LOTTO2ME",
+        "desc": "ระบบแลกเปลี่ยนเหรียญที่ออกแบบมาสำหรับธุรกิจของคุณ ลดต้นทุน เพิ่มความปลอดภัย และควบคุมได้เต็มรูปแบบ",
+        "link": "https://lotto2me.com/",
+        "color": "green",
+        "image": "images/uploads/37b07e783fa8.png"
+      },
+      {
+        "title": "LSM2PLAY",
+        "displayName": "LSM2PLAY",
+        "desc": "สัมผัสประสบการณ์ใหม่ของกีฬา ครอบคลุม ใช้งานง่าย ตอบโจทย์ทุกความต้องการ",
+        "link": "https://l2p9.l3t.lsmplay.com/register?channel=1723081456634",
+        "color": "gold",
+        "image": "images/uploads/f6a6362eae01.png"
+      }
+    ],
+    "tag": "Ecosystem",
+    "title": "Our <em>Products</em>"
+  },
+  "site": {
+    "brandText": "LSM2PLAY <span>X</span> ONEBX",
+    "logoImage": "onebx-logo.png",
+    "navCtaLink": "#contact",
+    "navCtaText": "Get Started",
+    "title": "ONE BX — The Power of Niche"
+  }
+}
